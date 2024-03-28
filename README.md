@@ -21,6 +21,13 @@ The College Management System is a comprehensive software solution designed to s
     ```
     npm install
     ```
+## Pakage being used:
+1) dotenv: "^16.0.3",
+2) express: "^4.18.2",
+3) mongoose: "^6.7.5",
+4) nodemon: "^2.0.20",
+
+
 
 ## Usage
 
